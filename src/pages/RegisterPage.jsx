@@ -74,7 +74,7 @@ const RegisterPage = () => {
                         <div className={requestedResponse.alertClass} role="alert">
                             {requestedResponse.textMessage}
                         </div>
-                        <h2>Register Page</h2>
+                        <h2>Register Page - </h2>
                         <hr />
                         <form onSubmit={formik.handleSubmit}>
                             <div className="form-group">
